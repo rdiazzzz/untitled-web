@@ -1,2 +1,2 @@
-## Rickroll ur friend with this thing
-## https://zenkaa7.github.io/rickroll-web/
+## idk what is this
+https://zenkaa7.github.io/untitled-web/
