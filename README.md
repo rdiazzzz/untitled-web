@@ -1,2 +1,2 @@
 ## idk what is this
-https://github.com/zenkaa7/untitled-web
+https://zenkaa7.github.io/untitled-web/
