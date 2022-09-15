@@ -3,6 +3,13 @@
 body {
   margin: 0;
   background-color: black;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* hide scrollbar for chrome, safari and opera users */
+body::-webkit-scrollbar {
+  display: none;
 }
 
 h1 {
@@ -28,12 +35,19 @@ p {
   );
   color: black;
 }
+
 .logo {
   width: 50px;
   fill: white;
   padding-right: 15px;
   display: inline-block;
   vertical-align: middle;
+}
+
+.githublogo {
+  position: absolute;
+  top: 5px;
+  right: 5px;
 }
 
 .inner-header {
